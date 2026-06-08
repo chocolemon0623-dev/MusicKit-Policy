@@ -1,1 +1,3 @@
-# MusicKit-Policy
+# MusicKit Policy
+
+Published privacy policy for MusicKit.
