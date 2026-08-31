@@ -1,8 +1,8 @@
-# MusicKit Privacy Policy
+# MusicianNote Privacy Policy
 
 Effective date: 2026-06-08
 
-MusicKit is a practice app for musicians. This policy explains what data the app uses and how it is handled.
+MusicianNote is a practice app for musicians. This policy explains what data the app uses and how it is handled.
 
 ## Information We Use
 
@@ -15,23 +15,23 @@ MusicKit is a practice app for musicians. This policy explains what data the app
 
 ## Microphone
 
-Microphone access is used for tuner features. MusicKit does not intentionally upload microphone audio to our servers.
+Microphone access is used for tuner features. MusicianNote does not intentionally upload microphone audio to our servers.
 
 ## Audio Files
 
-Audio files selected by the user are used for local playback and practice features. MusicKit does not intentionally upload selected audio files to our servers.
+Audio files selected by the user are used for local playback and practice features. MusicianNote does not intentionally upload selected audio files to our servers.
 
 ## Advertising
 
-MusicKit may show ads through Google Mobile Ads. Google may process device identifiers, ad interaction data, diagnostics, and related information according to Google's policies.
+MusicianNote may show ads through Google Mobile Ads. Google may process device identifiers, ad interaction data, diagnostics, and related information according to Google's policies.
 
 ## Purchases
 
-MusicKit does not currently enable in-app purchases. If purchases are enabled in the future, app stores or payment providers may process transaction information.
+MusicianNote does not currently enable in-app purchases. If purchases are enabled in the future, app stores or payment providers may process transaction information.
 
 ## Crash Reporting
 
-MusicKit may use crash reporting to diagnose app stability problems. Crash reports may include device information, operating system version, app version, diagnostic logs, and crash details.
+MusicianNote may use crash reporting to diagnose app stability problems. Crash reports may include device information, operating system version, app version, diagnostic logs, and crash details.
 
 ## Beta Feedback
 
@@ -39,7 +39,7 @@ Beta testers may submit feedback through a Google Form or another feedback chann
 
 ## Data Sharing
 
-MusicKit does not sell personal information. Data may be processed by service providers used for ads, crash reporting, beta feedback, and app distribution.
+MusicianNote does not sell personal information. Data may be processed by service providers used for ads, crash reporting, beta feedback, and app distribution.
 
 ## Data Retention
 
@@ -47,7 +47,7 @@ Local app data remains on the device until the user deletes it or uninstalls the
 
 ## Children's Privacy
 
-MusicKit is not intended to collect personal information from children. If you believe a child has provided personal information, contact us so we can review and delete it when appropriate.
+MusicianNote is not intended to collect personal information from children. If you believe a child has provided personal information, contact us so we can review and delete it when appropriate.
 
 ## Contact
 
